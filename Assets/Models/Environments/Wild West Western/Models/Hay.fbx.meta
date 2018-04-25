@@ -4,6 +4,10 @@ timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: Siano
     4300002: Siano3
     4300004: Siano2
@@ -11,7 +15,14 @@ ModelImporter:
     4300008: Hay_03
     4300010: Hay_02
     4300012: Hay
-  externalObjects: {}
+    7400000: modo_Anim
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hay
+    second: {fileID: 2100000, guid: 7e52a8b5973526b45a1c5b2b0be10fb4, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -66,7 +77,7 @@ ModelImporter:
     normalImportMode: 1
     tangentImportMode: 4
     normalCalculationMode: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

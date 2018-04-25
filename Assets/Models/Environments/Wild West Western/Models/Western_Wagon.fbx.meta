@@ -4,11 +4,26 @@ timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: Roof
+    100002: //RootNode
+    400000: Roof
+    400002: //RootNode
+    2300000: Roof
+    2300002: //RootNode
+    3300000: Roof
+    3300002: //RootNode
     4300000: W_Wagon_GR
     4300002: Okrycie
     4300004: Western_Wagon
     4300006: Roof
-  externalObjects: {}
+    7400000: modo_Anim
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Western_Wagon
+    second: {fileID: 2100000, guid: d4c6a0dc66d4e7b47a0c3e4264d64929, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -63,7 +78,7 @@ ModelImporter:
     normalImportMode: 1
     tangentImportMode: 4
     normalCalculationMode: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
