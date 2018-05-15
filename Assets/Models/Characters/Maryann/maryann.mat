@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: maryann
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 4800000, guid: 9c6ece3d5ef8bb84db19471daaf6c788, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -79,16 +79,16 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
-    - _OutlineSize: 0.005
+    - _OutlineSize: 0.003
     - _Parallax: 0.02
-    - _RimIntensity: 0.407
-    - _RimSize: 2.28
+    - _RimIntensity: 0.484
+    - _RimSize: 3
     - _RimSmoothness: 0
-    - _ShadowIntensity: 0.225
-    - _Shininess: 0.057
+    - _ShadowIntensity: 0.339
+    - _Shininess: 0.155
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SpecularIntensity: 0.5
+    - _SpecularIntensity: 0.537
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
