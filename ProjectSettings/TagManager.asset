@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TwoLevel
+  - Villain
+  - MaryAnn
+  - BulletVillain
+  - CrashBullet
+  - VillainHide
+  - Boss
+  - BossBarrel
+  - MaryAnnBullet
+  - FinishLevelOne
+  - Coin
   layers:
   - Default
   - TransparentFX
